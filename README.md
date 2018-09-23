@@ -22,12 +22,6 @@ We do not sell, trade, or otherwise transfer to outside parties your Personally 
 
 We do not include or offer third-party products or services on our website.
 
-# Google
-
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
-
-We have not enabled Google AdSense on our site but we may do so in the future.
-
 # COPPA (Children Online Privacy Protection Act)
 
 When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
@@ -48,4 +42,4 @@ We also agree to the Individual Redress Principle which requires that individual
 By using our Alexa Skill, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
 
 # Update
-This Privacy Policy was last updated on Aug 30, 2016. If there will be any update, amendment, or changes to our Privacy Policy then these will be posted on this page.
+This Privacy Policy was last updated on Sep 23, 2019. If there will be any update, amendment, or changes to our Privacy Policy then these will be posted on this page.
